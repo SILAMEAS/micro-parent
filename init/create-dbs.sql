@@ -1,0 +1,3 @@
+CREATE DATABASE schools;
+CREATE DATABASE students;
+CREATE DATABASE keycloak;
