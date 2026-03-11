@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="discovery" />
+        <module name="gateway" />
       </profile>
       <profile name="Annotation profile for student" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -23,7 +24,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-gateway-service" target="1.5" />
-      <module name="gateway" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
