@@ -34,6 +34,8 @@
         <module>services/server-discovery</module>
         <module>services/server-config</module>
         <module>services/customer-service</module>
+        <module>student-service</module>
+        <module>school-service</module>
     </modules>
 
 </project>
