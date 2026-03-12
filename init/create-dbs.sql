@@ -1,3 +1,4 @@
 CREATE DATABASE schools;
 CREATE DATABASE students;
+CREATE DATABASE customers;
 CREATE DATABASE keycloak;
