@@ -1,4 +1,4 @@
 #*.env
 .idea
-./services
-./lib-common
+./services/*
+./lib-common/*
