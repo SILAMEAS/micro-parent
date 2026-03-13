@@ -43,13 +43,13 @@
 
     <!-- Modules -->
     <modules>
-        <module>lib-common</module>
-        <module>gateway</module>
-        <module>services/server-discovery</module>
-        <module>services/server-config</module>
+        <module>lib/lib-common</module>
+        <module>server/gateway</module>
+        <module>server/server-discovery</module>
+        <module>server/server-config</module>
         <module>services/customer-service</module>
-        <module>student-service</module>
-        <module>school-service</module>
+        <module>services/school-service</module>
+        <module>services/student-service</module>
     </modules>
 
 </project>
